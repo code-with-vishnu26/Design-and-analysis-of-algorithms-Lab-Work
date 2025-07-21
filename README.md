@@ -1,7 +1,3 @@
-# DaaLab Work !!
-
----
-
 # 📚 Design and Analysis of Algorithms (DAA) Practice
 
 This repository contains implementation of fundamental and advanced algorithmic problems solved as part of my coursework and practice in **Design and Analysis of Algorithms**.
