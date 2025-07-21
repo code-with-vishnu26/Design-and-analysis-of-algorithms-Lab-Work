@@ -106,6 +106,7 @@ git clone https://github.com/code-with-vishnu26/DAA-algorithms.git
 2. Run any file using Python:
 ```bash
 python filename.py
----
+
+-----
 
 ## ⭐ Star the repo if you found it helpful!
